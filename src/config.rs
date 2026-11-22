@@ -1,5 +1,5 @@
 pub const OWNER_ID: i64 = 1857614828;
-pub const MX_WATCH_GROUP_IDS: [i64; 2] = [-1003404653209];
+pub const MX_WATCH_GROUP_IDS: [i64; 1] = [-1003404653209];
 pub const MX_WATCH_CHANNEL_ID: i64 = -1003404653209;
 pub const GH_WATCH_GROUP_IDS: [i64; 1] = [-1003404653209];
 pub const USER_AGENT: &str = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 imx<https://github.com/Innei/imx-bot>";
